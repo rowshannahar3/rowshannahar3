@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./Rowshan%20Banner.png" alt="Rowshan Nahar - Full-Stack Web Developer & UI/UX Designer" width="100%">
+<img src="./Rowshan_Banner.png" alt="Rowshan Nahar - Full-Stack Web Developer & UI/UX Designer" width="100%">
 
 <br/>
 
